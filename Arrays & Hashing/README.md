@@ -12,3 +12,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 4 | [Replace Elements With Greatest Element On Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | [replace_elements_with_greatest_element_on_right_side.py](./easy/replace_elements_with_greatest_element_on_right_side.py) |
 | 5 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [is_subsequence.py](./easy/is_subsequence.py) |
 | 6 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [length_of_last_word.py](./easy/length_of_last_word.py) |
+| 7 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](./easy/two_sum.py) |
