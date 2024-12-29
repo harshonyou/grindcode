@@ -13,3 +13,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 5 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [is_subsequence.py](./easy/is_subsequence.py) |
 | 6 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [length_of_last_word.py](./easy/length_of_last_word.py) |
 | 7 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](./easy/two_sum.py) |
+| 8 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.py](./easy/longest_common_prefix.py) |
