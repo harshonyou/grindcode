@@ -14,3 +14,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 6 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [length_of_last_word.py](./easy/length_of_last_word.py) |
 | 7 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](./easy/two_sum.py) |
 | 8 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.py](./easy/longest_common_prefix.py) |
+| 9 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [pascals_triangle.py](./easy/pascals_triangle.py) |
