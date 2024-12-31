@@ -15,3 +15,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 7 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two_sum.py](./easy/two_sum.py) |
 | 8 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [longest_common_prefix.py](./easy/longest_common_prefix.py) |
 | 9 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [pascals_triangle.py](./easy/pascals_triangle.py) |
+| 10 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [remove_element.py](./easy/remove_element.py) |
