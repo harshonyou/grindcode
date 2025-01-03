@@ -18,3 +18,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 10 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [remove_element.py](./easy/remove_element.py) |
 | 11 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | Easy | [unique_email_addresses.py](./easy/unique_email_addresses.py) |
 | 12 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [isomorphic_strings.py](./easy/isomorphic_strings.py) |
+| 13 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | [can_place_flowers.py](./easy/can_place_flowers.py) |
