@@ -20,3 +20,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 12 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | [isomorphic_strings.py](./easy/isomorphic_strings.py) |
 | 13 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | [can_place_flowers.py](./easy/can_place_flowers.py) |
 | 14 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [majority_element.py](./easy/majority_element.py) |
+| 15 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [find_pivot_index.py](./easy/find_pivot_index.py) |
