@@ -23,3 +23,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 15 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | [find_pivot_index.py](./easy/find_pivot_index.py) |
 | 16 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [range_sum_query_immutable.py](./easy/range_sum_query_immutable.py) |
 | 17 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | [find_all_numbers_disappeared_in_an_array.py](./easy/find_all_numbers_disappeared_in_an_array.py) |
+| 18 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | [maximum_number_of_balloons.py](./easy/maximum_number_of_balloons.py) |
