@@ -26,3 +26,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 18 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Easy | [maximum_number_of_balloons.py](./easy/maximum_number_of_balloons.py) |
 | 19 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | [word_pattern.py](./easy/word_pattern.py) |
 | 20 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | [design_hashset.py](./easy/design_hashset.py) |
+| 21 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [design_hashmap.py](./easy/design_hashmap.py) |
