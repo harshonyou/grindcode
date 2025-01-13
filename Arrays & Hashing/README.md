@@ -28,3 +28,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 20 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | [design_hashset.py](./easy/design_hashset.py) |
 | 21 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [design_hashmap.py](./easy/design_hashmap.py) |
 | 22 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | [monotonic_array.py](./easy/monotonic_array.py) |
+| 23 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | [number_of_good_pairs.py](./easy/number_of_good_pairs.py) |
