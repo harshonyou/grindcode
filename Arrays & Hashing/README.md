@@ -29,3 +29,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 21 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | Easy | [design_hashmap.py](./easy/design_hashmap.py) |
 | 22 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | [monotonic_array.py](./easy/monotonic_array.py) |
 | 23 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | [number_of_good_pairs.py](./easy/number_of_good_pairs.py) |
+| 24 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | [find_words_that_can_be_formed_by_characters.py](./easy/find_words_that_can_be_formed_by_characters.py) |
