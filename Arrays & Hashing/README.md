@@ -32,3 +32,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 24 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | [find_words_that_can_be_formed_by_characters.py](./easy/find_words_that_can_be_formed_by_characters.py) |
 | 25 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Easy | [largest_3_same_digit_number_in_string.py](./easy/largest_3_same_digit_number_in_string.py) |
 | 26 | [Destination City](https://leetcode.com/problems/destination-city/) | Easy | [destination_city.py](./easy/destination_city.py) |
+| 27 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Easy | [maximum_product_difference_between_two_pairs.py](./easy/maximum_product_difference_between_two_pairs.py) |
