@@ -33,3 +33,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 25 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Easy | [largest_3_same_digit_number_in_string.py](./easy/largest_3_same_digit_number_in_string.py) |
 | 26 | [Destination City](https://leetcode.com/problems/destination-city/) | Easy | [destination_city.py](./easy/destination_city.py) |
 | 27 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Easy | [maximum_product_difference_between_two_pairs.py](./easy/maximum_product_difference_between_two_pairs.py) |
+| 28 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy | [maximum_score_after_splitting_a_string.py](./easy/maximum_score_after_splitting_a_string.py) |
