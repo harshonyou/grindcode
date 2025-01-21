@@ -36,3 +36,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 28 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy | [maximum_score_after_splitting_a_string.py](./easy/maximum_score_after_splitting_a_string.py) |
 | 29 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | Easy | [path_crossing.py](./easy/path_crossing.py) |
 | 30 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy | [minimum_changes_to_make_alternating_binary_string.py](./easy/minimum_changes_to_make_alternating_binary_string.py) |
+| 31 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | Easy | [redistribute_characters_to_make_all_strings_equal.py](./easy/redistribute_characters_to_make_all_strings_equal.py) |
