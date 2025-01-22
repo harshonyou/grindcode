@@ -37,3 +37,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 29 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | Easy | [path_crossing.py](./easy/path_crossing.py) |
 | 30 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy | [minimum_changes_to_make_alternating_binary_string.py](./easy/minimum_changes_to_make_alternating_binary_string.py) |
 | 31 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | Easy | [redistribute_characters_to_make_all_strings_equal.py](./easy/redistribute_characters_to_make_all_strings_equal.py) |
+| 32 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [set_mismatch.py](./easy/set_mismatch.py) |
