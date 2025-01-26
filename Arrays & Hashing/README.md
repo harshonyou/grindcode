@@ -41,3 +41,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 33 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [first_unique_character_in_a_string.py](./easy/first_unique_character_in_a_string.py) |
 | 34 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [intersection_of_two_arrays.py](./easy/intersection_of_two_arrays.py) |
 | 35 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | [number_of_students_unable_to_eat_lunch.py](./easy/number_of_students_unable_to_eat_lunch.py) |
+| 36 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Easy | [time_needed_to_buy_tickets.py](./easy/time_needed_to_buy_tickets.py) |
