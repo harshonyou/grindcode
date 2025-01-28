@@ -43,3 +43,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 35 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | Easy | [number_of_students_unable_to_eat_lunch.py](./easy/number_of_students_unable_to_eat_lunch.py) |
 | 36 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Easy | [time_needed_to_buy_tickets.py](./easy/time_needed_to_buy_tickets.py) |
 | 37 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | [special_array_with_x_elements_greater_than_or_equal_x.py](./easy/special_array_with_x_elements_greater_than_or_equal_x.py) |
+| 38 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | [sign_of_the_product_of_an_array.py](./easy/sign_of_the_product_of_an_array.py) |
