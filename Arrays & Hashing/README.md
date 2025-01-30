@@ -45,3 +45,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 37 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Easy | [special_array_with_x_elements_greater_than_or_equal_x.py](./easy/special_array_with_x_elements_greater_than_or_equal_x.py) |
 | 38 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | [sign_of_the_product_of_an_array.py](./easy/sign_of_the_product_of_an_array.py) |
 | 39 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | [find_the_difference_of_two_arrays.py](./easy/find_the_difference_of_two_arrays.py) |
+| 40 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | Easy | [design_parking_system.py](./easy/design_parking_system.py) |
