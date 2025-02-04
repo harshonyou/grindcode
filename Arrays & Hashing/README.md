@@ -50,3 +50,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 42 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [sort_an_array.py](./medium/sort_an_array.py) |
 | 43 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [sort_colors.py](./medium/sort_colors.py) |
 | 44 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [top_k_frequent_elements.py](./medium/top_k_frequent_elements.py) |
+| 45 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [encode_and_decode_strings.py](./medium/encode_and_decode_strings.py) |
