@@ -52,3 +52,4 @@ This directory contains solutions to `Arrays & Hashing` related LeetCode problem
 | 44 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [top_k_frequent_elements.py](./medium/top_k_frequent_elements.py) |
 | 45 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | [encode_and_decode_strings.py](./medium/encode_and_decode_strings.py) |
 | 46 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [product_of_array_except_self.py](./medium/product_of_array_except_self.py) |
+| 47 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [valid_sudoku.py](./medium/valid_sudoku.py) |
