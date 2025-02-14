@@ -11,3 +11,4 @@ This directory contains solutions to `Two Pointers` related LeetCode problems.
 | 3 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | [valid_palindrome_ii.py](./easy/valid_palindrome_ii.py) |
 | 4 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy | [minimum_difference_between_highest_and_lowest_of_k_scores.py](./easy/minimum_difference_between_highest_and_lowest_of_k_scores.py) |
 | 5 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [merge_strings_alternately.py](./easy/merge_strings_alternately.py) |
+| 6 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [merge_sorted_array.py](./easy/merge_sorted_array.py) |
