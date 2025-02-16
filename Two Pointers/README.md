@@ -13,3 +13,4 @@ This directory contains solutions to `Two Pointers` related LeetCode problems.
 | 5 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [merge_strings_alternately.py](./easy/merge_strings_alternately.py) |
 | 6 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [merge_sorted_array.py](./easy/merge_sorted_array.py) |
 | 7 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [move_zeroes.py](./easy/move_zeroes.py) |
+| 8 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [remove_duplicates_from_sorted_array.py](./easy/remove_duplicates_from_sorted_array.py) |
