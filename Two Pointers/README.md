@@ -15,3 +15,4 @@ This directory contains solutions to `Two Pointers` related LeetCode problems.
 | 7 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [move_zeroes.py](./easy/move_zeroes.py) |
 | 8 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [remove_duplicates_from_sorted_array.py](./easy/remove_duplicates_from_sorted_array.py) |
 | 9 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | [assign_cookies.py](./easy/assign_cookies.py) |
+| 10 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Easy | [find_first_palindromic_string_in_the_array.py](./easy/find_first_palindromic_string_in_the_array.py) |
