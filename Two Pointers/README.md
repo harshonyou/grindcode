@@ -18,3 +18,4 @@ This directory contains solutions to `Two Pointers` related LeetCode problems.
 | 10 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | Easy | [find_first_palindromic_string_in_the_array.py](./easy/find_first_palindromic_string_in_the_array.py) |
 | 11 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [sort_array_by_parity.py](./easy/sort_array_by_parity.py) |
 | 12 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [reverse_words_in_a_string_iii.py](./easy/reverse_words_in_a_string_iii.py) |
+| 13 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [backspace_string_compare.py](./easy/backspace_string_compare.py) |
