@@ -20,3 +20,4 @@ This directory contains solutions to `Two Pointers` related LeetCode problems.
 | 12 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [reverse_words_in_a_string_iii.py](./easy/reverse_words_in_a_string_iii.py) |
 | 13 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [backspace_string_compare.py](./easy/backspace_string_compare.py) |
 | 14 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [check_if_two_string_arrays_are_equivalent.py](./easy/check_if_two_string_arrays_are_equivalent.py) |
+| 15 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [two_sum_ii_input_array_is_sorted.py](./medium/two_sum_ii_input_array_is_sorted.py) |
