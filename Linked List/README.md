@@ -10,3 +10,4 @@ This directory contains solutions to `Linked List` related LeetCode problems.
 | 2 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [merge_two_sorted_lists.py](./easy/merge_two_sorted_lists.py) |
 | 3 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [linked_list_cycle.py](./easy/linked_list_cycle.py) |
 | 4 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | [palindrome_linked_list.py](./easy/palindrome_linked_list.py) |
+| 5 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [remove_linked_list_elements.py](./easy/remove_linked_list_elements.py) |
