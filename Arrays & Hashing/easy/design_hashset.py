@@ -1,15 +1,48 @@
+class ListNode:
+    def __init__(self, key=0, next=None):
+        self.key = key
+        self.next = next
+
+
 class MyHashSet:
+    SIZE = 10000
 
     def __init__(self):
-        self.data = []
+        self.data = [ListNode() for _ in range(self.SIZE)]
+
+    def offset(self, key: int) -> int:
+        return key % self.SIZE
 
     def add(self, key: int) -> None:
-        if not self.contains(key):
-            self.data.append(key)
+        off = self.offset(key)
+
+        linkedList = self.data[off]
+        while linkedList.next:
+            if linkedList.next.key == key:
+                return
+            linkedList = linkedList.next
+
+        linkedList.next = ListNode(key)
 
     def remove(self, key: int) -> None:
-        if self.contains(key):
-            del self.data[self.data.index(key)]
+        off = self.offset(key)
+
+        linkedList = self.data[off]
+        while linkedList.next:
+            if linkedList.next.key == key:
+                linkedList.next = linkedList.next.next
+                return
+
+            linkedList = linkedList.next
 
     def contains(self, key: int) -> bool:
-        return key in self.data
+        off = self.offset(key)
+
+        linkedList = self.data[off]
+        while linkedList.next:
+            if linkedList.next.key == key:
+                return True
+
+            linkedList = linkedList.next
+
+        return False
