@@ -1,64 +1,30 @@
 package main
 
-import (
-	"math"
-)
+import "slices"
 
 // @leet start
 func sortedSquares(nums []int) []int {
-	// iter nums to find idx where left is -ve and idx is +ve
-	// -ve idx goes from right to left
-	// +ve idx goes from left to right
-	// append to ans arr the square of the smallest of those
-	var (
-		result   []int
-		leftPtr  int
-		rightPtr int
-	)
+	// have two ptrs -> left and right
+	// iter nums from both dir
+	// append the biggest num-squared to the result
+	// reverse the result to get in-order
+	leftPtr, rightPtr := 0, len(nums)-1
+	result := make([]int, 0, len(nums))
 
-	idx := len(nums) - 1
-	if nums[idx] < 0 {
-		idx = len(nums)
-	} else if nums[0] >= 0 {
-		idx = 0
-	} else {
-		for idx > 0 {
-			if nums[idx-1] < 0 && nums[idx] >= 0 {
-				break
-			}
+	for leftPtr <= rightPtr {
+		leftVal, rightVal := nums[leftPtr], nums[rightPtr]
+		leftSqr, rightSqr := leftVal*leftVal, rightVal*rightVal
 
-			idx--
-		}
-	}
-
-	leftPtr, rightPtr = idx-1, idx
-
-	for leftPtr >= 0 && rightPtr < len(nums) {
-		leftVal := float64(nums[leftPtr])
-		rightVal := float64(nums[rightPtr])
-
-		if math.Abs(leftVal) < math.Abs(rightVal) {
-			result = append(result, int(math.Pow(leftVal, 2)))
-			leftPtr--
+		if leftSqr > rightSqr {
+			result = append(result, leftSqr)
+			leftPtr++
 		} else {
-			result = append(result, int(math.Pow(rightVal, 2)))
-			rightPtr++
+			result = append(result, rightSqr)
+			rightPtr--
 		}
 	}
 
-	// there will be either leftPtr and rightPtr still holding some more values, unless the split was even
-	for leftPtr >= 0 {
-		leftVal := float64(nums[leftPtr])
-		result = append(result, int(math.Pow(leftVal, 2)))
-		leftPtr--
-	}
-
-	for rightPtr < len(nums) {
-		rightVal := float64(nums[rightPtr])
-		result = append(result, int(math.Pow(rightVal, 2)))
-		rightPtr++
-	}
-
+	slices.Reverse(result)
 	return result
 }
 
